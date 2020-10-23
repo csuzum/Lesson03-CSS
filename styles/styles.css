@@ -1,0 +1,42 @@
+/* CSS comments look like this.*/
+
+* {
+  border: 1px dashed red;
+}
+body {
+  font-size: 16px;
+  color: red;
+  background-color: lightgrey;
+}
+p {
+  color: DarkSeaGreen;
+}
+image {
+  width: 35%;
+  border: 5px red;
+  border-radius: 2rem;
+}
+.second-paragraph {
+  width: 75%;
+  color: red;
+}
+.first-article {
+  width: 50%;
+}
+.main-paragraph {
+  width: 16rem;
+}
+a:hover {
+  color: darkblue;
+}
+.main-paragraph {
+  width: 35%;
+  text-alighn: justify;
+  padding: 20px;
+  border: 5px;
+  margin: 25px;
+  box-sizing: border-box;
+}
+a[href="./about-me.html"] {
+  color: yellow;
+}
